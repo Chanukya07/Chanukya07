@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey I'm Chanukya!<br><br>Ai/Ml Engineer | Gen Ai| Agentic AI Automations<br><br>I'm currently working on:<br><br>Automation agents with n8n<br>Hosting of my projects<br>Making personal simplied workflow and easy my work<br><br>What know about me more<br>I think for tooooooooo long....
+Hey I'm Chanukya!<br><br>Ai/Ml Engineer | Gen Ai| Agentic AI Automations<br><br>I'm currently working on:<br><br>Automation agents with n8n<br>Hosting of my projects<br>Making personal simplied workflow and easy my work<br><br>Want to know about me more<br>I think for tooooooooo long....
 
 
 ## 🌐 Socials:
