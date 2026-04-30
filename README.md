@@ -6,6 +6,28 @@
 
 <img src="https://komarev.com/ghpvc/?username=Chanukya07&style=for-the-badge&color=A855F7&label=PROFILE+VIEWS" />
 
+<br><br>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="left" width="15%">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Dog%20Face.png" width="80" title="🐾 Sniffing out bugs..." />
+    </td>
+    <td align="left" width="20%">
+      🐾 &nbsp; 🐾 &nbsp; 🐾
+    </td>
+    <td align="center" width="30%">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Poodle.png" width="80" title="🐾 Code reviewer on duty..." />
+    </td>
+    <td align="right" width="20%">
+      🐾 &nbsp; 🐾 &nbsp; 🐾
+    </td>
+    <td align="right" width="15%">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Guide%20Dog.png" width="80" title="🐾 Leading the way!" />
+    </td>
+  </tr>
+</table>
+
 </div>
 
 ---
@@ -104,6 +126,36 @@ contact    : nadipallichanukya132@gmail.com
 
 ---
 
+## 🐕 My Coding Companions — Always On Patrol!
+
+<div align="center">
+
+*These good boys roam around while I build AI systems. They don't write code... but they judge it.* 🐾
+
+</div>
+
+<table width="100%" border="0" cellspacing="10" cellpadding="10">
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Dog%20Face.png" width="110" /><br/>
+      <b>Bug Sniffer</b> 🐾<br/>
+      <sub><i>Finds bugs before I do</i></sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Poodle.png" width="110" /><br/>
+      <b>Code Reviewer</b> 🐾<br/>
+      <sub><i>Barks at bad variable names</i></sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Guide%20Dog.png" width="110" /><br/>
+      <b>Deploy Guard</b> 🐾<br/>
+      <sub><i>Protects production at all costs</i></sub>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 🎮 Time-Pass Zone — Play & Chill!
 
 > *"Taking a break from bugs? Try these instead!"* 🕹️
@@ -167,6 +219,8 @@ contact    : nadipallichanukya132@gmail.com
 ---
 
 <div align="center">
+
+🐾 &nbsp;&nbsp;&nbsp; 🐾 &nbsp;&nbsp;&nbsp; 🐾 &nbsp;&nbsp;&nbsp; 🐾 &nbsp;&nbsp;&nbsp; 🐾 &nbsp;&nbsp;&nbsp; 🐾 &nbsp;&nbsp;&nbsp; 🐾 &nbsp;&nbsp;&nbsp; 🐾 &nbsp;&nbsp;&nbsp; 🐾 &nbsp;&nbsp;&nbsp; 🐾
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks+for+visiting!&fontSize=28&fontColor=fff&animation=fadeIn&fontAlignY=65" width="100%"/>
 
