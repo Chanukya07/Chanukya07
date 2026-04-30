@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=220&section=header&text=Chanukya&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=AI%20%2F%20ML%20Engineer%20%7C%20Agentic%20AI%20%7C%20Automation%20Architect&descAlignY=62&descSize=18" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=650&lines=Hey+there%2C+I%E2%80%99m+Chanukya+%F0%9F%91%8B;AI+%2F+ML+Engineer+%F0%9F%A4%96;Building+Agentic+AI+Systems+%F0%9F%9A%80;Automation+with+n8n+%26+LLMs+%E2%9A%A1;Turning+ideas+into+intelligent+workflows+%F0%9F%A7%A0;Welcome+to+my+corner+of+GitHub+%F0%9F%8C%8C)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=700&lines=Hey+there%2C+I%E2%80%99m+Chanukya+%F0%9F%91%8B;AI+%2F+ML+Engineer+%F0%9F%A4%96;Building+Agentic+AI+Systems+%F0%9F%9A%80;Automation+with+n8n+%26+LLMs+%E2%9A%A1;Turning+ideas+into+intelligent+workflows+%F0%9F%A7%A0;Welcome+to+my+corner+of+GitHub+%F0%9F%8C%8C)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=Chanukya07&style=for-the-badge&color=A855F7&label=PROFILE+VIEWS" />
 
@@ -42,49 +42,63 @@ contact    : nadipallichanukya132@gmail.com
 
 <div align="center">
 
-### 🤖 AI / ML
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
+### 🤖 AI / ML & Data
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn&theme=dark" />
+</a>
 
 ### 🌐 Languages & Frontend
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,go,bash&theme=dark" />
+</a>
 
 ### 🗄️ Backend & Databases
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white)
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=nodejs,postgres,redis,supabase,firebase,sqlite&theme=dark" />
+</a>
 
 ### ☁️ Cloud, DevOps & Tools
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,githubactions,postman,git,github,vscode,linux&theme=dark" />
+</a>
 
 </div>
 
 ---
 
-## 😂 Dev Joke of the Day
+## 🔥 GitHub Streak
 
 <div align="center">
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight&qColor=%23A855F7&aColor=%23ffffff&bgColor=%230d1117&borderColor=%23A855F7)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Chanukya07&theme=tokyonight&hide_border=true&border_radius=10&fire=A855F7&ring=A855F7&currStreakLabel=A855F7&sideLabels=A855F7&dates=7C3AED)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🚀 What I'm Currently Building
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║              🛠️  CURRENTLY IN THE WORKSHOP                  ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  🤖  Agentic AI Workflows                                   ║
+║      Multi-agent systems with n8n + LLM orchestration       ║
+║      Status: ██████████░░░░░░  60% — Almost there!          ║
+║                                                              ║
+║  🧠  Personal AI Assistant                                   ║
+║      Voice + text interface powered by local LLMs           ║
+║      Status: ████░░░░░░░░░░░░  25% — Early stages           ║
+║                                                              ║
+║  ⚡  Automation Hub                                          ║
+║      Self-healing pipelines with smart retry logic          ║
+║      Status: ████████░░░░░░░░  50% — Building fast!         ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
 </div>
 
@@ -104,16 +118,6 @@ contact    : nadipallichanukya132@gmail.com
 | 🟩 **Wordle** | Guess the 5-letter word in 6 tries | [![Play](https://img.shields.io/badge/Play%20Wordle-A855F7?style=for-the-badge&logo=googleplay&logoColor=white)](https://wordleunlimited.org/) |
 | ⚡ **Type Racer** | Race others by typing code snippets | [![Play](https://img.shields.io/badge/Play%20TypeRacer-A855F7?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.typeracer.com/) |
 | 🧠 **CodeWars Kata** | Solve a coding puzzle right now! | [![Solve](https://img.shields.io/badge/Solve%20Kata-A855F7?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/kata/search/?q=&r[]=-8&tags=Fundamentals) |
-
-</div>
-
----
-
-## 🤓 Dev Wisdom
-
-<div align="center">
-
-[![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
 
