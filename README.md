@@ -1,57 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=220&section=header&text=Chanukya&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=AI%20%2F%20ML%20Engineer%20%7C%20Agentic%20AI%20%7C%20Automation%20Architect&descAlignY=62&descSize=18" width="100%"/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=700&lines=Hey+there%2C+I%E2%80%99m+Chanukya+%F0%9F%91%8B;AI+%2F+ML+Engineer+%F0%9F%A4%96;Building+Agentic+AI+Systems+%F0%9F%9A%80;Automation+with+n8n+%26+LLMs+%E2%9A%A1;Turning+ideas+into+intelligent+workflows+%F0%9F%A7%A0;Welcome+to+my+corner+of+GitHub+%F0%9F%8C%8C)](https://git.io/typing-svg)
-
-<img src="https://komarev.com/ghpvc/?username=Chanukya07&style=for-the-badge&color=A855F7&label=PROFILE+VIEWS" />
-
-<br><br>
-
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td align="left" width="15%">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Dog%20Face.png" width="80" title="🐾 Sniffing out bugs..." />
-    </td>
-    <td align="left" width="20%">
-      🐾 &nbsp; 🐾 &nbsp; 🐾
-    </td>
-    <td align="center" width="30%">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Poodle.png" width="80" title="🐾 Code reviewer on duty..." />
-    </td>
-    <td align="right" width="20%">
-      🐾 &nbsp; 🐾 &nbsp; 🐾
-    </td>
-    <td align="right" width="15%">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Guide%20Dog.png" width="80" title="🐾 Leading the way!" />
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
-## 🧠 About Me
-
-```yaml
-name       : Chanukya Nadipalli
-role       : AI / ML Engineer
-focus      : Gen AI · Agentic AI · Automation
-building   :
-  - Autonomous agents with n8n
-  - Hosting & deploying AI projects
-  - Personal AI-powered workflows
-superpower : "I think for tooooooooo long... then ship something awesome 🚀"
-fun_fact   : "My code works on the first try... in my dreams 😅"
-contact    : nadipallichanukya132@gmail.com
-```
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
+# Hi, I'm Chanukya 👋
+### AI / ML Engineer · Agentic AI Builder · Automation Architect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nadipalli-chanukya-648a81250/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nadipallichanukya132@gmail.com)
@@ -60,168 +10,64 @@ contact    : nadipallichanukya132@gmail.com
 
 ---
 
-## 💻 Tech Arsenal
+## 🚀 About Me
+
+I build intelligent systems that combine **LLMs, automation, and scalable engineering**.
+
+- 🔭 Currently focused on: **Agentic AI workflows and autonomous systems**
+- 🧠 Interests: **GenAI, orchestration, MLOps, workflow automation**
+- ⚡ Building with: **n8n, Python, Node.js, cloud-native tooling**
+- 🎯 Goal: Ship practical AI products that solve real problems
+
+---
+
+## 🛠️ Tech Stack
+
+### AI / ML
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+
+### Development
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+### DevOps / Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+---
+
+## 📌 Featured Work
+
+> Add your best repositories here to turn this into a strong portfolio showcase.
+
+- **Agentic AI Workflows** — Multi-agent orchestration with n8n + LLMs
+- **Personal AI Assistant** — Voice + text assistant powered by local/cloud models
+- **Automation Hub** — Self-healing pipelines with retries and monitoring
+
+---
+
+## 📈 GitHub Snapshot
 
 <div align="center">
 
-### 🤖 AI / ML & Data
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn&theme=dark" />
-</a>
-
-### 🌐 Languages & Frontend
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,go,bash&theme=dark" />
-</a>
-
-### 🗄️ Backend & Databases
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nodejs,postgres,redis,supabase,firebase,sqlite&theme=dark" />
-</a>
-
-### ☁️ Cloud, DevOps & Tools
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,githubactions,postman,git,github,vscode,linux&theme=dark" />
-</a>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chanukya07&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chanukya07&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
 ---
 
-## 🔥 GitHub Streak
+## 🤝 Let’s Connect
 
-<div align="center">
+If you’re building in **AI, automation, or intelligent products**, I’d love to collaborate.
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Chanukya07&theme=tokyonight&hide_border=true&border_radius=10&fire=A855F7&ring=A855F7&currStreakLabel=A855F7&sideLabels=A855F7&dates=7C3AED)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🚀 What I'm Currently Building
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║              🛠️  CURRENTLY IN THE WORKSHOP                  ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║  🤖  Agentic AI Workflows                                   ║
-║      Multi-agent systems with n8n + LLM orchestration       ║
-║      Status: ██████████░░░░░░  60% — Almost there!          ║
-║                                                              ║
-║  🧠  Personal AI Assistant                                   ║
-║      Voice + text interface powered by local LLMs           ║
-║      Status: ████░░░░░░░░░░░░  25% — Early stages           ║
-║                                                              ║
-║  ⚡  Automation Hub                                          ║
-║      Self-healing pipelines with smart retry logic          ║
-║      Status: ████████░░░░░░░░  50% — Building fast!         ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
----
-
-## 🐕 My Coding Companions — Always On Patrol!
-
-<div align="center">
-
-*These good boys roam around while I build AI systems. They don't write code... but they judge it.* 🐾
-
-</div>
-
-<table width="100%" border="0" cellspacing="10" cellpadding="10">
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Dog%20Face.png" width="110" /><br/>
-      <b>Bug Sniffer</b> 🐾<br/>
-      <sub><i>Finds bugs before I do</i></sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Poodle.png" width="110" /><br/>
-      <b>Code Reviewer</b> 🐾<br/>
-      <sub><i>Barks at bad variable names</i></sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Guide%20Dog.png" width="110" /><br/>
-      <b>Deploy Guard</b> 🐾<br/>
-      <sub><i>Protects production at all costs</i></sub>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🎮 Time-Pass Zone — Play & Chill!
-
-> *"Taking a break from bugs? Try these instead!"* 🕹️
-
-<div align="center">
-
-| Game | Description | Play Now |
-|------|-------------|----------|
-| 🐍 **Snake** | Classic snake game — don't eat yourself! | [![Play](https://img.shields.io/badge/Play%20Snake-A855F7?style=for-the-badge&logo=googleplay&logoColor=white)](https://www.google.com/fbx?fbx=snake_arcade) |
-| 🧩 **2048** | Slide & merge tiles to reach 2048 | [![Play](https://img.shields.io/badge/Play%202048-A855F7?style=for-the-badge&logo=googleplay&logoColor=white)](https://play2048.co/) |
-| ❌ **Tic-Tac-Toe** | Challenge the machine — can you win? | [![Play](https://img.shields.io/badge/Play%20TicTacToe-A855F7?style=for-the-badge&logo=googleplay&logoColor=white)](https://playtictactoe.org/) |
-| 🟩 **Wordle** | Guess the 5-letter word in 6 tries | [![Play](https://img.shields.io/badge/Play%20Wordle-A855F7?style=for-the-badge&logo=googleplay&logoColor=white)](https://wordleunlimited.org/) |
-| ⚡ **Type Racer** | Race others by typing code snippets | [![Play](https://img.shields.io/badge/Play%20TypeRacer-A855F7?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.typeracer.com/) |
-| 🧠 **CodeWars Kata** | Solve a coding puzzle right now! | [![Solve](https://img.shields.io/badge/Solve%20Kata-A855F7?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/kata/search/?q=&r[]=-8&tags=Fundamentals) |
-
-</div>
-
----
-
-## 🧩 Can You Beat This?
-
-<div align="center">
-
-```
-🎯 DEVELOPER IQ TEST — Answer in your head!
-
-  Q1: What does this print?
-      console.log(typeof null)    →  🤔 ...
-
-  Q2: What's the output?
-      print(0.1 + 0.2 == 0.3)    →  🤔 ...
-
-  Q3: Is this valid Python?
-      lambda: None                →  🤔 ...
-
-  Q4: Bug or feature?
-      git commit -m "fix"         →  🤔 ...
-
-  ✅ Answers: "object" | False | Yes! | Both 😅
-```
-
-</div>
-
----
-
-## 🔥 Fun Facts About Me
-
-<div align="center">
-
-```
-🧠  I've debugged for 3 hours — it was a missing semicolon
-☕  Caffeine is my compile button
-🎧  Lo-fi beats = 10x productivity mode
-🌙  Best code ideas come at 2 AM (but worst syntax)
-🤖  I talk to LLMs more than humans some days
-🚀  n8n automations are my happy place
-```
-
-</div>
-
----
-
-<div align="center">
-
-🐾 &nbsp;&nbsp;&nbsp; 🐾 &nbsp;&nbsp;&nbsp; 🐾 &nbsp;&nbsp;&nbsp; 🐾 &nbsp;&nbsp;&nbsp; 🐾 &nbsp;&nbsp;&nbsp; 🐾 &nbsp;&nbsp;&nbsp; 🐾 &nbsp;&nbsp;&nbsp; 🐾 &nbsp;&nbsp;&nbsp; 🐾 &nbsp;&nbsp;&nbsp; 🐾
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks+for+visiting!&fontSize=28&fontColor=fff&animation=fadeIn&fontAlignY=65" width="100%"/>
-
-</div>
+- LinkedIn: https://linkedin.com/in/nadipalli-chanukya-648a81250/
+- Email: nadipallichanukya132@gmail.com
