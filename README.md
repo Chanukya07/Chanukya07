@@ -46,11 +46,9 @@ I build intelligent systems that combine **LLMs, automation, and scalable engine
 
 ## 📌 Featured Work
 
-> Add your best repositories here to turn this into a strong portfolio showcase.
-
-- **Agentic AI Workflows** — Multi-agent orchestration with n8n + LLMs
-- **Personal AI Assistant** — Voice + text assistant powered by local/cloud models
-- **Automation Hub** — Self-healing pipelines with retries and monitoring
+- **Agentic AI Workflows** — Multi-agent orchestration with n8n + LLMs *(active build focus)*
+- **Personal AI Assistant** — Voice + text assistant powered by local/cloud models *(in progress)*
+- **Automation Hub** — Self-healing pipelines with retries and monitoring *(in progress)*
 
 ---
 
@@ -67,7 +65,4 @@ I build intelligent systems that combine **LLMs, automation, and scalable engine
 
 ## 🤝 Let’s Connect
 
-If you’re building in **AI, automation, or intelligent products**, I’d love to collaborate.
-
-- LinkedIn: https://linkedin.com/in/nadipalli-chanukya-648a81250/
-- Email: nadipallichanukya132@gmail.com
+If you’re building in **AI, automation, or intelligent products**, I’d love to collaborate—use the contact badges at the top to reach me.
