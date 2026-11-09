@@ -31,42 +31,6 @@ that work: tested, documented, and running in production.
 
 </div>
 
-## 🚀 Featured Projects
-
-### 📈 [IntelStock](https://github.com/Chanukya07/IntelStock) — AI Stock Intelligence Platform
-
-AI-powered stock intelligence platform for Indian markets (NSE/BSE): live quotes,
-sentiment analysis, RAG-enhanced research, price alerts, portfolio analytics, and
-a streaming conversational AI assistant.
-
-- RAG pipeline with FAISS vector store for context-aware insights
-- FastAPI backend + Streamlit frontend, with a pytest suite across unit, service, and API layers
-- Deploys via Docker Compose or a Render Blueprint; every external dependency degrades gracefully
-
-**Try it:** [Live demo](https://intelstock.streamlit.app) · [Repository](https://github.com/Chanukya07/IntelStock)
-
-### 🧠 [Clariva](https://github.com/Chanukya07/Clariva) — Enterprise Knowledge Assistant
-
-RAG + MCP-style AI assistant that answers questions over internal documents —
-upload PDFs, DOCX, or text and get grounded answers with document and page citations.
-
-- Multi-agent architecture: ingestion, retriever, generator, citation, and memory agents
-- FAISS semantic search with local SentenceTransformers embeddings (no API key required)
-- FastAPI REST API + Streamlit chat interface
-
-**Try it:** [Repository](https://github.com/Chanukya07/Clariva)
-
-### 🏢 [BizScraper-India](https://github.com/Chanukya07/BizScraper-India) — Business Data Automation
-
-End-to-end Python automation tool that collects structured business listings
-(restaurants, lodges, homestays, dhabas) for any Indian city and exports them to
-styled Excel files.
-
-- Built with Selenium, BeautifulSoup, Pandas, and openpyxl
-- One command from city name to a formatted, analysis-ready spreadsheet
-
-**Try it:** [Repository](https://github.com/Chanukya07/BizScraper-India)
-
 ## 💻 Tech Stack
 
 <div align="center">
@@ -82,14 +46,6 @@ styled Excel files.
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=docker,githubactions,git,github,linux,vscode&theme=dark" />
 </a>
-
-</div>
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Chanukya07&theme=tokyonight&hide_border=true&border_radius=10&fire=A855F7&ring=A855F7&currStreakLabel=A855F7&sideLabels=A855F7&dates=7C3AED)](https://git.io/streak-stats)
 
 </div>
 
