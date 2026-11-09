@@ -11,7 +11,6 @@
 ```yaml
 name     : Chanukya Nadipalli
 role     : AI / ML Engineer
-degree   : B.Tech Computer Science, 2026
 focus    : Gen AI · RAG · Agentic AI · Automation
 stack    : Python · FastAPI · Streamlit · FAISS · n8n
 contact  : nadipallichanukya132@gmail.com
